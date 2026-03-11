@@ -8,6 +8,7 @@ I'm a **Software Test Engineer (QA Engineer)** with extensive experience in soft
 
 - **Email**: [kondaharsha17@gmail.com](mailto:kondaharsha17@gmail.com)
 - **LinkedIn**: [Harshavardhan K](https://www.linkedin.com/in/harsha-konda/)
+- **Resume**: [Download My Resume](./Resume.pdf)
 
 ---
 
@@ -33,4 +34,4 @@ Feel free to explore my repositories and check out my projects. I'm always open 
 
 ---
 
-> “As I Think, So I Become, If I Think I CAN I CAN, If I Think I CANNOT I CANNOT” – Harshavardhan
+> "As I Think, So I Become, If I Think I CAN I CAN, If I Think I CANNOT I CANNOT" – Harshavardhan
