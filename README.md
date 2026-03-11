@@ -8,7 +8,7 @@ I'm a **Software Test Engineer (QA Engineer)** with extensive experience in soft
 
 - **Email**: [kondaharsha17@gmail.com](mailto:kondaharsha17@gmail.com)
 - **LinkedIn**: [Harshavardhan K](https://www.linkedin.com/in/harsha-konda/)
-- **Resume**: [Download My Resume](./Resume.pdf)
+- **Resume**: [Download My Resume](./Resume_QA_SDET.pdf)
 
 ---
 
